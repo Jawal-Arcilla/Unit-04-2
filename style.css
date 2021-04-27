@@ -1,0 +1,21 @@
+.paragraph-1 {
+  color: cornflowerblue;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 100%; 
+  padding: 2px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  width: 15%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 90%;
+  color: salmon;
+}
+
+.animal {
+  padding: 5%;
+  width: 30%;
+  height: 50%;
+  border: 1px solid black;
+}
